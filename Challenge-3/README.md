@@ -1,0 +1,1 @@
+Execute the ELF program to expose the key.

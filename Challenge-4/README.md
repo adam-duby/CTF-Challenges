@@ -1,0 +1,1 @@
+The provided PE32, when executed, creates a mutex on the system. What is the name of the mutex?

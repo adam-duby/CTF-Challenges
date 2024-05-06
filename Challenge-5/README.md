@@ -1,0 +1,1 @@
+There is some evil in the provided log file. What is the full path of the file that contains the likely malicious script?
