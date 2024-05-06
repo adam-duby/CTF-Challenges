@@ -1,1 +1,1 @@
-Find the flag of the form FLAG{xxxx}
+Capture the flag challenges.
